@@ -1,0 +1,206 @@
+Student_ID,Student_Name,Age,Gender,City,Quiz_ID,Score,Total_Questions,Correct_Answers,Incorrect_Answers,Time_Taken_Minutes,Attempt_Number,Device_Type,Internet_Speed,Submission_Status,Feedback_Rating,Passed,Country
+S100,Amit,120,Male,Delhi,QZ01,95,100,59,7,40,3,Laptop,FAST ,submitted,3.0,pass,India
+S101,Anjali,19,FEMALE,Delhi,QZ01,85,100,64,41,60,1,Tablet,slow,Not Submitted,,N,India
+S102,Neha,20,f,KOLKATA,QZ03,N/A,100,43,51,50,3,Mobile,slow,submitted,,fail,India
+S103,Amit,120,FEMALE,chennai,QZ01,N/A,100,49,14,50,2,Mobile,FAST ,Submitted,2.0,fail,India
+S104,Sneha,18,f,mumbai,QZ03,N/A,100,42,46,forty,1,Mobile,FAST ,Not Submitted,4.0,No,India
+S105,Karan,5,f,mumbai,QZ01,75,100,80,28,40,2,Laptop,Fast,Submitted,3.0,Yes,India
+S106,Anjali,20,M,KOLKATA,QZ01,75,100,84,32,50,2,Tablet,slow,Submitted,3.0,pass,India
+S107,Priya,20,f,mumbai,QZ02,45,100,57,51,60,3,Mobile,FAST ,submitted,5.0,N,India
+S108,Sneha,120,FEMALE,Delhi,QZ02,45,100,86,29,forty,2,Tablet,FAST ,Not Submitted,5.0,fail,India
+S109,Karan,17,f,chennai,QZ03,N/A,100,75,38,40,3,Tablet,slow,Submitted,3.0,N,India
+S110,Priya,18,M,Bangalore,QZ02,55,100,86,26,70,1,Mobile,FAST ,Submitted,5.0,No,India
+S111,Karan,120,M,mumbai,QZ03,nan,100,61,35,60,3,Mobile,Fast,Not Submitted,4.0,pass,India
+S112,Rohit,18,FEMALE,Delhi,QZ02,75,100,73,28,50,1,Tablet,slow,Submitted,1.0,fail,India
+S113,Anjali,18,male ,Bangalore,QZ01,55,100,86,37,50,3,Mobile,Fast,Submitted,4.0,N,India
+S114,Sujit ,5,male ,chennai,QZ03,65,100,47,56,60,2,Mobile,Fast,Not Submitted,3.0,Yes,India
+S115,Sneha,20,f,Bangalore,QZ03,75,100,79,32,50,3,Mobile,Fast,Not Submitted,3.0,No,India
+S116,Karan,19,Male,Delhi,QZ01,75,100,88,36,forty,3,Laptop,Fast,Not Submitted,4.0,pass,India
+S117,Neha,5,f,Bangalore,QZ03,45,100,83,26,40,1,Tablet,slow,Not Submitted,5.0,No,India
+S118,Priya,5,FEMALE,KOLKATA,QZ03,nan,100,58,54,forty,2,Tablet,Fast,submitted,5.0,Yes,India
+S119,Sneha,18,FEMALE,Bangalore,QZ02,nan,100,81,32,50,3,Laptop,Fast,Not Submitted,,pass,India
+S120,Anjali,21,FEMALE,mumbai,QZ03,95,100,80,3,70,2,Tablet,FAST ,submitted,3.0,No,India
+S121,Neha,20,FEMALE,mumbai,QZ01,85,100,76,21,40,3,Mobile,slow,submitted,2.0,Y,India
+S122,Anjali,17,FEMALE,KOLKATA,QZ02,85,100,45,1,40,3,Tablet,slow,submitted,,Yes,India
+S123,Amit,5,M,Delhi,QZ02,85,100,91,9,60,2,Mobile,Medium,Submitted,5.0,Yes,India
+S124,Karan,19,male ,mumbai,QZ01,85,100,65,4,60,3,Laptop,slow,submitted,4.0,Yes,India
+S125,Amit,21,FEMALE,chennai,QZ01,65,100,73,58,70,2,Mobile,slow,submitted,5.0,Y,India
+S126,Karan,21,Male,mumbai,QZ02,65,100,98,9,40,3,Tablet,Medium,Submitted,4.0,Y,India
+S127,Karan,17,Male,mumbai,QZ03,75,100,95,32,70,1,Tablet,slow,Submitted,,N,India
+S128,Amit,5,Male,Delhi,QZ02,N/A,100,98,53,60,2,Tablet,slow,Submitted,3.0,fail,India
+S129,Priya,19,Male,Bangalore,QZ01,45,100,84,37,60,3,Laptop,slow,Not Submitted,5.0,No,India
+S130,Priya,20,M,mumbai,QZ02,45,100,45,12,40,3,Laptop,slow,Submitted,4.0,N,India
+S131,Sujit ,16,Male,KOLKATA,QZ01,85,100,76,30,forty,1,Tablet,Medium,Submitted,3.0,No,India
+S132,Amit,19,FEMALE,Bangalore,QZ02,75,100,96,46,50,2,Mobile,slow,submitted,2.0,fail,India
+S133,Sujit ,17,f,chennai,QZ03,95,100,72,35,60,3,Laptop,slow,Submitted,4.0,Y,India
+S134,Amit,21,Male,Delhi,QZ02,55,100,92,44,60,1,Tablet,Medium,Not Submitted,,fail,India
+S135,Amit,20,M,chennai,QZ02,N/A,100,61,23,forty,3,Tablet,FAST ,Submitted,2.0,Y,India
+S136,Anjali,19,M,Bangalore,QZ01,75,100,60,51,forty,2,Laptop,Fast,Not Submitted,2.0,fail,India
+S137,Rohit,16,Male,Bangalore,QZ01,N/A,100,45,55,70,3,Laptop,FAST ,Submitted,1.0,N,India
+S138,Rohit,16,f,Bangalore,QZ01,N/A,100,45,14,70,3,Laptop,Medium,Submitted,5.0,pass,India
+S139,Sneha,18,Male,chennai,QZ02,N/A,100,94,28,50,3,Mobile,Fast,Submitted,4.0,N,India
+S140,Sneha,18,M,Bangalore,QZ03,75,100,87,7,50,3,Mobile,Medium,Submitted,2.0,No,India
+S141,Karan,120,male ,chennai,QZ01,85,100,43,4,40,1,Tablet,Medium,Not Submitted,1.0,N,India
+S142,Neha,17,FEMALE,Bangalore,QZ01,45,100,69,28,70,1,Laptop,slow,Not Submitted,,Yes,India
+S143,Karan,5,M,KOLKATA,QZ02,45,100,50,46,60,2,Mobile,Fast,submitted,3.0,No,India
+S144,Amit,19,Male,Bangalore,QZ01,85,100,69,3,70,1,Laptop,slow,Not Submitted,4.0,fail,India
+S145,Anjali,19,FEMALE,chennai,QZ03,N/A,100,70,11,60,1,Tablet,Fast,Submitted,2.0,No,India
+S146,Anjali,5,Male,mumbai,QZ03,55,100,63,44,forty,2,Mobile,Medium,submitted,5.0,pass,India
+S147,Priya,120,Male,Bangalore,QZ01,nan,100,94,1,70,1,Mobile,Medium,submitted,1.0,Y,India
+S148,Sneha,21,male ,mumbai,QZ01,75,100,48,26,forty,1,Mobile,FAST ,submitted,2.0,fail,India
+S149,Amit,21,FEMALE,KOLKATA,QZ02,nan,100,94,30,50,2,Tablet,Fast,Submitted,5.0,No,India
+S150,Priya,120,FEMALE,Delhi,QZ03,95,100,42,50,50,2,Laptop,slow,Not Submitted,2.0,fail,India
+S151,Karan,21,male ,KOLKATA,QZ03,85,100,90,50,40,2,Mobile,FAST ,Submitted,4.0,fail,India
+S152,Priya,18,M,Bangalore,QZ01,55,100,70,35,70,3,Tablet,FAST ,submitted,4.0,fail,India
+S153,Priya,19,Male,mumbai,QZ02,75,100,79,35,forty,3,Laptop,FAST ,Submitted,4.0,Y,India
+S154,Karan,120,f,mumbai,QZ03,85,100,76,25,60,2,Tablet,slow,Submitted,,N,India
+S155,Sneha,19,Male,chennai,QZ03,N/A,100,75,42,50,2,Laptop,FAST ,Not Submitted,,fail,India
+S156,Anjali,5,Male,mumbai,QZ02,45,100,63,26,50,2,Tablet,slow,Not Submitted,1.0,Yes,India
+S157,Sneha,16,M,chennai,QZ02,nan,100,70,4,60,3,Laptop,FAST ,submitted,4.0,pass,India
+S158,Neha,18,Male,Delhi,QZ03,65,100,45,19,forty,3,Mobile,slow,Submitted,5.0,Y,India
+S159,Amit,20,male ,Bangalore,QZ03,65,100,41,10,forty,1,Laptop,Medium,Submitted,2.0,No,India
+S160,Karan,18,male ,chennai,QZ02,55,100,59,9,70,1,Tablet,Medium,Not Submitted,3.0,Y,India
+S161,Rohit,120,FEMALE,Delhi,QZ03,N/A,100,67,39,70,2,Tablet,Medium,Submitted,5.0,No,India
+S162,Neha,20,f,mumbai,QZ01,95,100,50,37,40,3,Laptop,Medium,Submitted,,Y,India
+S163,Anjali,16,Male,mumbai,QZ01,nan,100,43,5,50,3,Mobile,Medium,Submitted,,No,India
+S164,Sujit ,120,Male,Delhi,QZ02,N/A,100,54,7,70,3,Mobile,FAST ,Not Submitted,5.0,fail,India
+S165,Neha,17,M,mumbai,QZ02,nan,100,45,22,forty,2,Laptop,FAST ,submitted,,N,India
+S166,Priya,19,male ,Delhi,QZ02,55,100,93,46,60,1,Laptop,FAST ,submitted,4.0,No,India
+S167,Rohit,16,f,chennai,QZ01,55,100,88,25,forty,2,Tablet,slow,Submitted,1.0,No,India
+S168,Sujit ,19,FEMALE,chennai,QZ03,95,100,69,45,50,1,Mobile,slow,submitted,2.0,Yes,India
+S169,Rohit,21,male ,Delhi,QZ01,65,100,95,42,forty,1,Laptop,slow,Not Submitted,1.0,No,India
+S170,Amit,17,FEMALE,chennai,QZ03,N/A,100,77,11,40,2,Mobile,slow,Not Submitted,2.0,Yes,India
+S171,Neha,17,M,chennai,QZ01,75,100,90,25,50,1,Laptop,Medium,submitted,2.0,pass,India
+S172,Anjali,16,M,chennai,QZ03,65,100,96,12,60,1,Laptop,Medium,submitted,1.0,fail,India
+S173,Sujit ,17,Male,KOLKATA,QZ01,N/A,100,41,39,40,3,Mobile,Medium,Submitted,5.0,Yes,India
+S174,Priya,20,f,Bangalore,QZ02,65,100,54,17,50,1,Laptop,Fast,submitted,2.0,N,India
+S175,Priya,17,FEMALE,mumbai,QZ01,75,100,50,24,60,2,Laptop,FAST ,Submitted,1.0,fail,India
+S176,Sneha,19,male ,KOLKATA,QZ03,45,100,47,32,40,2,Tablet,slow,Submitted,2.0,Yes,India
+S177,Neha,19,M,chennai,QZ01,45,100,65,46,40,1,Laptop,slow,Not Submitted,3.0,fail,India
+S178,Anjali,120,Male,Delhi,QZ01,95,100,90,39,50,3,Laptop,Medium,Not Submitted,5.0,fail,India
+S179,Amit,19,Male,chennai,QZ01,45,100,84,59,70,3,Laptop,slow,Not Submitted,4.0,fail,India
+S180,Sneha,120,FEMALE,Bangalore,QZ02,45,100,83,42,40,1,Tablet,slow,Not Submitted,2.0,pass,India
+S181,Priya,19,M,chennai,QZ01,85,100,44,11,40,1,Mobile,FAST ,submitted,3.0,N,India
+S182,Sujit ,20,f,Delhi,QZ02,nan,100,45,43,60,2,Tablet,Medium,Not Submitted,4.0,Y,India
+S183,Neha,5,M,Bangalore,QZ02,85,100,65,35,forty,1,Tablet,FAST ,submitted,4.0,Y,India
+S184,Sujit ,120,FEMALE,chennai,QZ01,85,100,93,47,50,3,Mobile,Fast,Not Submitted,2.0,Yes,India
+S185,Karan,18,FEMALE,Bangalore,QZ01,95,100,43,3,50,1,Tablet,Fast,submitted,1.0,fail,India
+S186,Rohit,21,M,mumbai,QZ01,85,100,58,4,70,2,Mobile,Fast,Submitted,2.0,Yes,India
+S187,Karan,16,FEMALE,mumbai,QZ03,45,100,59,55,70,2,Tablet,Medium,submitted,3.0,pass,India
+S188,Neha,19,M,chennai,QZ01,75,100,72,36,50,2,Mobile,slow,submitted,4.0,pass,India
+S189,Neha,17,male ,Bangalore,QZ02,95,100,59,7,70,2,Laptop,Medium,Not Submitted,2.0,No,India
+S190,Neha,5,M,Delhi,QZ01,95,100,88,41,60,2,Tablet,Medium,submitted,1.0,pass,India
+S191,Neha,19,M,chennai,QZ03,55,100,51,48,50,1,Tablet,slow,Submitted,2.0,No,India
+S192,Karan,17,FEMALE,mumbai,QZ01,95,100,86,27,70,1,Tablet,FAST ,Submitted,5.0,N,India
+S193,Rohit,21,FEMALE,mumbai,QZ03,55,100,40,30,50,1,Tablet,Fast,Not Submitted,1.0,Yes,India
+S194,Sneha,21,Male,chennai,QZ03,95,100,65,57,forty,1,Laptop,FAST ,Submitted,3.0,N,India
+S195,Anjali,21,Male,Bangalore,QZ01,nan,100,53,8,40,2,Tablet,Fast,submitted,4.0,pass,India
+S196,Rohit,17,male ,mumbai,QZ02,45,100,77,53,50,3,Laptop,Medium,Submitted,2.0,N,India
+S197,Priya,19,Male,Bangalore,QZ03,95,100,76,50,40,1,Laptop,Fast,Not Submitted,1.0,N,India
+S198,Sujit ,21,M,mumbai,QZ01,45,100,50,28,70,3,Laptop,Medium,submitted,5.0,N,India
+S199,Amit,20,FEMALE,mumbai,QZ01,45,100,75,13,40,1,Laptop,FAST ,Not Submitted,1.0,pass,India
+S200,Amit,120,Male,KOLKATA,QZ02,65,100,52,39,50,1,Mobile,Medium,submitted,,fail,India
+S201,Neha,17,Male,mumbai,QZ03,95,100,82,40,forty,3,Mobile,FAST ,Submitted,5.0,N,India
+S202,Rohit,17,male ,Delhi,QZ03,N/A,100,42,21,70,2,Tablet,slow,Not Submitted,3.0,No,India
+S203,Sujit ,19,male ,chennai,QZ01,65,100,72,10,50,1,Mobile,slow,Not Submitted,4.0,pass,India
+S204,Amit,17,M,chennai,QZ01,N/A,100,45,22,70,1,Mobile,slow,submitted,3.0,N,India
+S205,Rohit,17,FEMALE,Bangalore,QZ02,45,100,89,0,60,1,Tablet,Medium,Not Submitted,2.0,fail,India
+S206,Priya,21,male ,mumbai,QZ02,45,100,95,45,40,3,Tablet,slow,submitted,1.0,pass,India
+S207,Sneha,19,Male,Delhi,QZ03,65,100,49,36,60,2,Tablet,Fast,submitted,,Y,India
+S208,Anjali,21,FEMALE,Bangalore,QZ03,65,100,44,20,50,3,Mobile,FAST ,submitted,5.0,fail,India
+S209,Amit,120,FEMALE,KOLKATA,QZ01,N/A,100,62,25,forty,3,Mobile,FAST ,submitted,5.0,No,India
+S210,Priya,5,Male,Bangalore,QZ03,55,100,49,45,70,2,Tablet,Fast,Submitted,1.0,N,India
+S211,Sneha,120,male ,Bangalore,QZ02,N/A,100,83,35,40,3,Laptop,Medium,submitted,,Y,India
+S212,Neha,5,Male,mumbai,QZ02,65,100,41,53,70,2,Tablet,Medium,Not Submitted,1.0,Y,India
+S213,Anjali,21,FEMALE,KOLKATA,QZ01,75,100,52,22,50,1,Laptop,FAST ,Submitted,2.0,pass,India
+S214,Karan,120,f,Bangalore,QZ02,65,100,79,56,70,2,Laptop,slow,Not Submitted,3.0,Y,India
+S215,Anjali,19,f,Delhi,QZ02,75,100,41,0,40,1,Tablet,Medium,Submitted,5.0,No,India
+S216,Priya,16,M,Delhi,QZ02,nan,100,59,53,50,3,Tablet,Medium,submitted,2.0,No,India
+S217,Karan,21,Male,chennai,QZ02,65,100,40,54,70,3,Tablet,Fast,Submitted,3.0,Yes,India
+S218,Neha,5,Male,KOLKATA,QZ01,nan,100,76,50,forty,1,Mobile,Fast,Submitted,2.0,No,India
+S219,Priya,20,M,KOLKATA,QZ01,55,100,48,39,50,3,Laptop,slow,Not Submitted,,fail,India
+S220,Priya,5,M,chennai,QZ03,N/A,100,56,14,50,2,Mobile,Medium,Not Submitted,5.0,Y,India
+S221,Neha,20,M,Bangalore,QZ02,75,100,48,20,forty,1,Mobile,Medium,submitted,1.0,No,India
+S222,Priya,17,FEMALE,KOLKATA,QZ03,N/A,100,50,46,60,3,Tablet,Fast,Submitted,1.0,pass,India
+S223,Rohit,120,Male,Delhi,QZ01,nan,100,54,8,40,1,Mobile,Medium,Submitted,3.0,Yes,India
+S224,Neha,20,FEMALE,Delhi,QZ01,75,100,63,52,60,2,Tablet,FAST ,Submitted,4.0,Y,India
+S225,Rohit,5,M,mumbai,QZ01,N/A,100,77,8,70,2,Laptop,Fast,submitted,,Yes,India
+S226,Sujit ,17,Male,KOLKATA,QZ01,65,100,94,9,forty,3,Tablet,slow,submitted,3.0,Y,India
+S227,Priya,16,FEMALE,Bangalore,QZ01,45,100,74,51,60,2,Mobile,Fast,submitted,4.0,pass,India
+S228,Neha,19,FEMALE,chennai,QZ01,nan,100,69,56,50,1,Mobile,Medium,submitted,2.0,Yes,India
+S229,Neha,19,M,chennai,QZ01,N/A,100,70,52,70,2,Tablet,slow,submitted,,N,India
+S230,Anjali,19,Male,Bangalore,QZ02,nan,100,88,25,70,1,Tablet,Fast,Not Submitted,2.0,fail,India
+S231,Neha,20,M,mumbai,QZ03,85,100,44,40,60,1,Mobile,FAST ,Submitted,5.0,fail,India
+S232,Anjali,16,Male,chennai,QZ01,nan,100,99,34,60,2,Laptop,FAST ,Submitted,,Y,India
+S233,Karan,20,f,KOLKATA,QZ02,75,100,83,51,forty,3,Laptop,Fast,Submitted,4.0,N,India
+S234,Amit,120,male ,mumbai,QZ02,85,100,89,24,40,2,Tablet,FAST ,Submitted,5.0,Yes,India
+S235,Anjali,20,male ,KOLKATA,QZ03,95,100,53,25,60,1,Laptop,FAST ,Submitted,1.0,N,India
+S236,Amit,16,male ,Delhi,QZ01,75,100,92,10,60,1,Mobile,FAST ,Submitted,4.0,N,India
+S237,Sujit ,16,M,mumbai,QZ03,45,100,95,37,50,2,Tablet,slow,Submitted,3.0,Yes,India
+S238,Sneha,120,f,chennai,QZ01,85,100,50,1,70,3,Mobile,FAST ,Submitted,1.0,pass,India
+S239,Neha,16,Male,mumbai,QZ02,95,100,48,6,40,3,Mobile,FAST ,Not Submitted,1.0,N,India
+S240,Neha,5,FEMALE,mumbai,QZ02,65,100,73,17,50,1,Laptop,FAST ,Submitted,3.0,N,India
+S241,Anjali,16,Male,mumbai,QZ02,nan,100,51,26,forty,1,Tablet,slow,Not Submitted,,pass,India
+S242,Anjali,19,FEMALE,mumbai,QZ02,N/A,100,74,33,forty,3,Tablet,Fast,submitted,1.0,N,India
+S243,Neha,5,Male,KOLKATA,QZ03,55,100,74,26,60,2,Laptop,Medium,Submitted,4.0,N,India
+S244,Anjali,5,f,Delhi,QZ01,nan,100,40,16,60,1,Mobile,FAST ,submitted,5.0,N,India
+S245,Amit,120,FEMALE,Bangalore,QZ01,95,100,79,42,forty,1,Mobile,Fast,submitted,1.0,fail,India
+S246,Karan,18,M,mumbai,QZ03,nan,100,61,58,60,3,Mobile,FAST ,submitted,4.0,No,India
+S247,Anjali,18,Male,chennai,QZ01,45,100,99,43,40,2,Mobile,slow,Not Submitted,2.0,pass,India
+S248,Anjali,16,Male,mumbai,QZ02,65,100,68,58,60,3,Tablet,Fast,submitted,4.0,N,India
+S249,Sujit ,5,FEMALE,chennai,QZ01,55,100,47,50,70,2,Tablet,slow,submitted,5.0,fail,India
+S250,Sujit ,18,M,KOLKATA,QZ02,85,100,50,53,60,2,Laptop,FAST ,submitted,4.0,pass,India
+S251,Priya,18,M,chennai,QZ03,85,100,80,23,50,2,Laptop,FAST ,Submitted,3.0,Y,India
+S252,Karan,16,f,Bangalore,QZ01,85,100,76,24,40,1,Tablet,slow,Submitted,5.0,Y,India
+S253,Anjali,18,M,Delhi,QZ03,95,100,53,6,50,3,Tablet,Medium,Not Submitted,,N,India
+S254,Amit,20,M,chennai,QZ01,75,100,99,51,50,3,Mobile,slow,Not Submitted,2.0,fail,India
+S255,Amit,17,M,chennai,QZ02,75,100,69,5,70,2,Mobile,FAST ,Submitted,3.0,fail,India
+S256,Neha,120,male ,Delhi,QZ03,N/A,100,74,52,40,1,Laptop,slow,Not Submitted,,pass,India
+S257,Anjali,17,f,Bangalore,QZ01,55,100,60,23,40,1,Tablet,Medium,Submitted,4.0,pass,India
+S258,Priya,16,Male,mumbai,QZ02,85,100,76,32,40,3,Laptop,slow,submitted,5.0,fail,India
+S259,Amit,19,FEMALE,chennai,QZ03,75,100,44,48,40,1,Tablet,Medium,submitted,2.0,pass,India
+S260,Sujit ,120,Male,Delhi,QZ03,95,100,58,28,40,1,Mobile,Medium,Not Submitted,3.0,fail,India
+S261,Neha,16,f,KOLKATA,QZ01,N/A,100,98,42,70,2,Laptop,slow,Submitted,,No,India
+S262,Neha,5,FEMALE,Delhi,QZ01,65,100,53,21,60,1,Laptop,slow,Submitted,,fail,India
+S263,Amit,19,f,KOLKATA,QZ01,N/A,100,65,25,50,2,Tablet,Fast,Not Submitted,2.0,Y,India
+S264,Sneha,17,M,Bangalore,QZ02,75,100,43,27,40,3,Mobile,FAST ,Submitted,4.0,pass,India
+S265,Karan,16,FEMALE,mumbai,QZ01,45,100,64,49,60,1,Laptop,Medium,submitted,2.0,fail,India
+S266,Anjali,5,M,Delhi,QZ03,95,100,84,20,60,3,Mobile,Fast,Not Submitted,,fail,India
+S267,Neha,120,Male,chennai,QZ03,45,100,81,48,50,3,Laptop,slow,Not Submitted,1.0,pass,India
+S268,Karan,120,Male,Bangalore,QZ01,85,100,64,6,70,1,Mobile,FAST ,Submitted,3.0,No,India
+S269,Karan,21,FEMALE,Delhi,QZ01,45,100,57,16,forty,1,Tablet,Fast,Not Submitted,2.0,No,India
+S270,Amit,5,FEMALE,chennai,QZ03,85,100,79,19,forty,3,Laptop,Medium,Submitted,,pass,India
+S271,Amit,20,f,Delhi,QZ02,85,100,47,40,60,1,Laptop,Fast,Submitted,4.0,Yes,India
+S272,Sneha,18,f,KOLKATA,QZ01,75,100,78,48,50,2,Mobile,Medium,Submitted,,pass,India
+S273,Sujit ,19,M,Delhi,QZ01,45,100,79,19,forty,2,Mobile,slow,Submitted,4.0,pass,India
+S274,Neha,5,FEMALE,Delhi,QZ03,85,100,53,53,60,1,Laptop,FAST ,Submitted,2.0,No,India
+S275,Amit,21,Male,Delhi,QZ01,55,100,71,21,70,3,Tablet,FAST ,Not Submitted,4.0,No,India
+S276,Amit,18,f,Bangalore,QZ02,65,100,90,27,forty,1,Mobile,FAST ,submitted,5.0,pass,India
+S277,Karan,18,f,Delhi,QZ03,N/A,100,77,39,60,1,Mobile,slow,submitted,5.0,pass,India
+S278,Priya,16,Male,chennai,QZ01,N/A,100,72,48,60,3,Mobile,Medium,Not Submitted,5.0,pass,India
+S279,Karan,18,f,KOLKATA,QZ03,75,100,62,6,40,3,Laptop,slow,Not Submitted,1.0,No,India
+S280,Neha,20,M,KOLKATA,QZ01,45,100,54,0,70,2,Laptop,FAST ,submitted,2.0,pass,India
+S281,Karan,120,FEMALE,Delhi,QZ01,45,100,72,31,40,3,Laptop,slow,submitted,,pass,India
+S282,Anjali,21,Male,Bangalore,QZ01,85,100,64,12,50,2,Laptop,slow,submitted,,N,India
+S283,Karan,18,FEMALE,Bangalore,QZ02,95,100,56,29,40,3,Tablet,slow,submitted,1.0,Yes,India
+S284,Neha,16,f,chennai,QZ02,nan,100,72,22,40,1,Tablet,Medium,submitted,4.0,Y,India
+S285,Karan,20,f,Delhi,QZ03,85,100,86,50,forty,2,Laptop,Fast,Submitted,1.0,Yes,India
+S286,Amit,17,Male,KOLKATA,QZ01,65,100,94,58,60,2,Tablet,Fast,Not Submitted,4.0,N,India
+S287,Rohit,120,M,Bangalore,QZ01,55,100,41,55,70,2,Mobile,slow,Submitted,4.0,Y,India
+S288,Neha,120,male ,Delhi,QZ02,N/A,100,53,18,40,1,Mobile,Fast,submitted,3.0,pass,India
+S289,Rohit,21,Male,Bangalore,QZ01,85,100,92,31,70,1,Mobile,Fast,submitted,,N,India
+S290,Sujit ,120,male ,Bangalore,QZ02,nan,100,79,29,40,1,Laptop,slow,submitted,5.0,pass,India
+S291,Rohit,18,male ,KOLKATA,QZ01,nan,100,79,28,50,1,Mobile,slow,Submitted,4.0,No,India
+S292,Karan,16,M,mumbai,QZ03,85,100,90,48,40,1,Tablet,FAST ,Submitted,3.0,fail,India
+S293,Anjali,120,male ,chennai,QZ01,75,100,78,44,forty,2,Laptop,Fast,submitted,,N,India
+S294,Anjali,120,male ,chennai,QZ01,N/A,100,90,28,60,1,Tablet,Medium,Submitted,5.0,No,India
+S295,Sujit ,17,M,KOLKATA,QZ02,75,100,45,29,50,2,Mobile,slow,Submitted,4.0,N,India
+S296,Amit,17,male ,Bangalore,QZ01,55,100,45,15,40,1,Mobile,FAST ,submitted,4.0,N,India
+S297,Karan,19,male ,Delhi,QZ01,nan,100,42,39,70,3,Mobile,Medium,Submitted,1.0,No,India
+S298,Rohit,20,male ,Bangalore,QZ02,nan,100,46,18,50,2,Laptop,Fast,Not Submitted,1.0,Y,India
+S299,Sujit ,18,Male,KOLKATA,QZ03,65,100,90,17,50,3,Tablet,FAST ,Not Submitted,,Yes,India
+S105,Karan,5,f,mumbai,QZ01,75,100,80,28,40,2,Laptop,Fast,Submitted,3.0,Yes,India
+S106,Anjali,20,M,KOLKATA,QZ01,75,100,84,32,50,2,Tablet,slow,Submitted,3.0,pass,India
+S107,Priya,20,f,mumbai,QZ02,45,100,57,51,60,3,Mobile,FAST ,submitted,5.0,N,India
+S108,Sneha,120,FEMALE,Delhi,QZ02,45,100,86,29,forty,2,Tablet,FAST ,Not Submitted,5.0,fail,India
+S109,Karan,17,f,chennai,QZ03,N/A,100,75,38,40,3,Tablet,slow,Submitted,3.0,N,India
